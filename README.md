@@ -3,6 +3,7 @@
 **Senior Full Stack Developer | AI Feature Integrator | Cloud-Native Engineer**
 
 📍 Based in Capitao Poco, Brazil
+
 💼 10+ years in building scalable web apps and cloud solutions  
 🧠 Passionate about AI integration, clean architecture, and DevOps
 
