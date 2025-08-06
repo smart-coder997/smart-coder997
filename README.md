@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Leonan Nunes Costa
 
-**Senior Full Stack Developer | AI Feature Integrator | Cloud-Native Engineer**
+**Senior Full Stack Developer | AI Feature/Automation Integrator | Cloud-Native Engineer**
 
 📍 Based in Capitao Poco, Brazil
 
